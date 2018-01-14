@@ -1,0 +1,7 @@
+id=navsoftkey
+name=Navigation soft key enabler
+version=1.0
+versionCode=1
+author=sunilpaulmathew@xda-developers.com
+description=Navigation soft key enabler Magisk Module
+template=1400

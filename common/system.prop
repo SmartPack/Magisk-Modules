@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+# Tweak to enable navigation soft key
+qemu.hw.mainkeys=0
