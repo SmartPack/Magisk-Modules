@@ -1,4 +1,4 @@
-# Navigation soft key enabler v1.0
+# Navigation soft key enabler v2.0
 
 ## This repo holds the source code of Navigation soft key enabler Magisk Module
 

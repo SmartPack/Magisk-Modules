@@ -6,7 +6,7 @@
 
 MODULE_NAME="Navigation-soft-key-enabler"
 
-MODULE_VERSION="1.0"
+MODULE_VERSION="2.0"
 
 MODULE_DATE="$(date +"%Y%m%d")"
 
