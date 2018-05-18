@@ -1,7 +1,7 @@
-id=navsoftkey
-name=Navigation soft key enabler
-version=2
+id=micboost
+name=Microphone boost for Lineage-OS 15.1 [kltexxx]
+version=1.0
 versionCode=1
 author=sunilpaulmathew@xda-developers.com
-description=Navigation soft key enabler Magisk Module
+description=Systemless Microphone boost
 minMagisk=1500

@@ -25,7 +25,7 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=true
+PROPFILE=false
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -40,11 +40,13 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************************"
-  ui_print "      Navigation soft key enabler v2.0     "
+  ui_print "************************************************"
+  ui_print "  Microphone boost v1.0 for LOS 15.1 [kltexxx]  "
   ui_print ""
-  ui_print "  (c) sunilpaulmathew@xda-developers.com   "
-  ui_print "*******************************************"
+  ui_print "      Credts: Brunowp8@@xda-developers.com      "
+  ui_print ""
+  ui_print "     (c) sunilpaulmathew@xda-developers.com     "
+  ui_print "************************************************"
 }
 
 ##########################################################################################
@@ -65,6 +67,7 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/vendor/etc/mixer_paths.xml
 "
 
 ##########################################################################################
