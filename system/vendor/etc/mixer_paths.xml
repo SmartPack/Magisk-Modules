@@ -1263,12 +1263,12 @@
 	<!-- TX part -->
 	<path name="voip-main-mic-comm">
 		<path name="main-mic" />
-		<ctl name="DEC2 Volume" value="90" />
+		<ctl name="DEC2 Volume" value="115" />
 	</path>
 
 	<path name="voip-sub-mic-comm">
 		<path name="sub-mic" />
-		<ctl name="DEC4 Volume" value="89" />
+		<ctl name="DEC4 Volume" value="112" />
 	</path>
 
 	<path name="voip-headphone-mic-comm">
