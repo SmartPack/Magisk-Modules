@@ -6,7 +6,7 @@
 
 MODULE_NAME="Microphone-boost_LOS-15.1_kltexxx"
 
-MODULE_VERSION="1.0"
+MODULE_VERSION="1.1"
 
 MODULE_DATE="$(date +"%Y%m%d")"
 

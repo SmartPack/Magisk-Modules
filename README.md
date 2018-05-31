@@ -1,4 +1,4 @@
-# Microphone boost for Lineage-OS 15.1 v1.0
+# Microphone boost for Lineage-OS 15.1 v1.1
 
 ## This repo holds the source code of Microphone boost for Lineage-OS 15.1 Magisk Module
 
