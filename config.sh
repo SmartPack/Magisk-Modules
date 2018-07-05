@@ -41,9 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "************************************************"
-  ui_print "  Microphone boost v1.1 for LOS 15.1 [kltexxx]  "
-  ui_print ""
-  ui_print "      Credts: Brunowp8@@xda-developers.com      "
+  ui_print "  Microphone boost v1.2 for LOS 15.1 [kltexxx]  "
   ui_print ""
   ui_print "     (c) sunilpaulmathew@xda-developers.com     "
   ui_print "************************************************"
