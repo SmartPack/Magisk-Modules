@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=debloater
+name=System-less De-bloater
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=sunilpaulmathew@xda-developers.com
+description=De-bloater System Apps Systemless-ly
 minMagisk=17000
