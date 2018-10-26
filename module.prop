@@ -1,7 +1,7 @@
-id=debloater
+id=de-bloater
 name=System-less De-bloater
 version=v1.0
 versionCode=1
 author=sunilpaulmathew@xda-developers.com
-description=De-bloater System Apps Systemless-ly
+description=De-bloat System Apps Systemless-ly
 minMagisk=17000
