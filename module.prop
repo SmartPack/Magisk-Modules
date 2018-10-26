@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=sysappinstall
+name=System-less App Installer
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=sunilpaulmathew@xda-developers.com
+description=Install apps with system permissions systemless-ly
 minMagisk=17000

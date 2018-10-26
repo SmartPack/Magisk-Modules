@@ -40,9 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "*******************************************"
+  ui_print "      System-less App Installer v1.0       "
+  ui_print " "
+  ui_print "  (c) sunilpaulmathew@xda-developers.com   "
+  ui_print "*******************************************"
 }
 
 ##########################################################################################
@@ -63,6 +65,9 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/priv-app/GoogleTranslate/
+/system/priv-app/SmartPackKernelManager/
+/system/priv-app/Telegram/
 "
 
 ##########################################################################################
