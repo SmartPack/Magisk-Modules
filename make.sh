@@ -4,9 +4,9 @@
 # #####	Variables to be set manually...	#####
 #
 
-MODULE_NAME="System-less-App-Installer"
+MODULE_NAME="SmartPack-Kernel-Manager"
 
-MODULE_VERSION="1.0"
+MODULE_VERSION="6.5"
 
 MODULE_DATE="$(date +"%Y%m%d")"
 

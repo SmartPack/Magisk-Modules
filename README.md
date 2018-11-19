@@ -1,7 +1,4 @@
-## System-less App Installer
+## SmartPack-Kernel Manager systemless Installer
 #### Version 1.0
 
-### Install the following apps with system permissions systemless-ly
-* SmartPack-Kernel Manager
-* Telegram
-* Google Translate
+### Install SmartPack-Kernel Manager v6.5 systemless-ly

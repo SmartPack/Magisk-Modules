@@ -1,7 +1,7 @@
-id=sysappinstall
-name=System-less App Installer
-version=v1.0
+id=spkm
+name=SmartPack-Kernel Manager
+version=v6.5
 versionCode=1
 author=sunilpaulmathew@xda-developers.com
-description=Install apps with system permissions systemless-ly
+description=Install SmartPack-Kernel Manager systemless-ly
 minMagisk=17000
