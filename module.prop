@@ -1,7 +1,6 @@
 id=micboost
-name=Microphone boost for Lineage-OS 15.1 [kltexxx]
-version=v1.2
+name=Microphone boost for Lineage-OS Oreo/Pie [kltexxx]
+version=v1.3
 versionCode=1
 author=sunilpaulmathew@xda-developers.com
 description=Boost Microphone
-minMagisk=1500

@@ -1,5 +1,11 @@
-## Microphone boost for Lineage-OS 15.1 v1.2
+## Microphone boost for Lineage-OS
 
-### This repo holds the source code of Microphone boost for Lineage-OS 15.1 Magisk Module
+by <i>sunilpaulmathew@xda-developers.com</i>
 
-### This module will boost Microphone volume in Lineage-OS 15.1 and other LOS based Oreo ROMs (kltexxx). Please note: This module will modify "/system/vendor/etc/mixer_paths.xml"
+<b>Version</b>: <i>1.3</i>
+
+<b>Microphone boost for Lineage-OS Oreo/Pie v1.3</b>
+
+### Disclaimer
+
+<b>This module is made for personal use only.</b>
