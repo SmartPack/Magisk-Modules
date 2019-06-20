@@ -1,6 +1,11 @@
-# Navigation soft key enabler v2.0
+## Navigation soft key enabler
 
-## This repo holds the source code of Navigation soft key enabler Magisk Module
+by <i>sunilpaulmathew@xda-developers.com</i>
 
-### README.md
-## This module will enable navigation soft keys systemlessly.
+<b>Version</b>: <i>2.1</i>
+
+<b>Navigation soft key enabler Magisk Module v2.1</b>
+
+### Disclaimer
+
+<b>This module is made for personal use only.</b>
