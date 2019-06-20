@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print " Camera Sounds Disabler (OOS)  "
   ui_print "*******************************"
 }
 

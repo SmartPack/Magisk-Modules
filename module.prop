@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=Camera-Sounds_Disabler
+name=Camera Sounds Disabler for Oxygen OS
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=sunilpaulmathew@xda-developers.com
+description=Systemless-ly disable Camera Sound(s) on Oxygen OS

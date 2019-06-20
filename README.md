@@ -1,7 +1,11 @@
-# Magisk Installer
+## Camera Sounds Disabler for Oxygen OS
 
-**Update `README.md` if you want to submit your module to the online repo!**
+by <i>sunilpaulmathew@xda-developers.com</i>
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+<b>Version</b>: <i>1.0</i>
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+<b>Systemless-ly disable Camera Sound(s) on Oxygen OS.</b>
+
+### Disclaimer
+
+<b>This module is made for personal use only.</b>
